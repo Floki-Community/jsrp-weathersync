@@ -1,6 +1,6 @@
 const hour = 8;
 const minute = 0;
-const weather = "RAIN";
+const weather = "EXTRASUNNY";
 
 module.export = {
     hour, minute, weather
